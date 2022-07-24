@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HoneyWood/MyHome.unity
+    guid: 8842794594578814b9de69e431837e2c
+  - enabled: 1
+    path: Assets/Scenes/Overworld.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
+    guid: 99d8e6b688ffcbf43a75dca5b279d6bb
+  - enabled: 1
+    path: Assets/Scenes/HoneyWood/House1.unity
+    guid: a3565afa1f501b24097818ff75b35c98
+  - enabled: 1
+    path: Assets/Scenes/HoneyWood/House2.unity
+    guid: 50ca7df304e098d4794a4644a03b2405
+  - enabled: 1
+    path: Assets/Scenes/HoneyWood/House3.unity
+    guid: 894ff76a7197e7749b32ec323bcf0fba
+  - enabled: 1
+    path: Assets/Scenes/HoneyWood/House4.unity
+    guid: 9d8e770939ddef741be1c8710246ef99
+  - enabled: 1
+    path: Assets/Scenes/HoneyWood/House5.unity
+    guid: e98ea5ae1e28dbb45aee9bd67fc88c79
+  - enabled: 1
+    path: Assets/Scenes/HoneyWood/ItemShop.unity
+    guid: 1367fc3c9eabc374c94278aff3a73050
+  - enabled: 1
+    path: Assets/Scenes/HoneyWood/WeaponShop.unity
+    guid: f5c40f0645521924db84909489e41c73
+  m_configObjects: {}
